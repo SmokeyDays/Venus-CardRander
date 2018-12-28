@@ -1,0 +1,42 @@
+{
+	name : "国民革命歌"
+	singer : "邝睟"
+	link : "国民革命歌.jpg"
+},
+{
+	name : "数鸭子"
+	singer : "王家桢、胡小环"
+	link : "数鸭子.jpg" 
+},
+{
+	name : "别看我只是一只羊"
+	singer : "杨沛宜"
+	link : "别看我只是一只羊.jpg"
+},
+{
+	owner : "张春晓"
+	name : "春天在哪里"
+	singer : "望安、潘振声"
+	link : "春天在哪里.jpg"
+},
+{
+	name : "蓝精灵之歌"
+	singer : "郑秋枫、瞿琮"
+	link : "蓝精灵之歌.jpg"
+},
+{
+	name : "读书郎"
+	singer : "宋杨"
+	link : "读书郎.jpg"
+},
+{
+	//owner : "小粉兔"
+	name : "小白兔乖乖"
+	singer : "黎锦晖"
+	link : "小白兔乖乖.jpg"
+},
+{
+	name : "铃儿响叮当"
+	singer : "詹姆斯·罗德·皮尔彭特"
+	link : "铃儿响叮当.jpg"
+}
